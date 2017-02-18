@@ -1,5 +1,8 @@
 # Histopedia
 
+ a web-based application built using Google maps to represent the old historical events visually.
+
+
 * Histopedia is an abbreviation of "History Encyclopedia".
 * Histopedia is a platform for Dynamic History Representation.
 * The platform should represent an alternative way to represent “history”.
